@@ -32,7 +32,7 @@ I'm a software developer specializing in **Golang** and **Python**. I enjoy buil
 - Check out my [GitHub profile](https://github.com/gofuckbiz) for more projects!
 
 ## 🌟 My GitHub Profile Picture
-![GitHub Profile Picture](https://avatars.githubusercontent.com/u/your_user_id) <!-- Replace with your GitHub profile picture URL -->
+![GitHub Profile Picture](https://avatars.githubusercontent.com/u/157685266) <!-- Replace with your GitHub profile picture URL -->
 
 ## 🌈 Let's Connect!
 Feel free to reach out if you want to collaborate on projects or just chat about tech! 🚀
