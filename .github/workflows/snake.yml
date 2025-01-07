@@ -1,0 +1,31 @@
+name: Update Snake
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  update-snake:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Generate snake
+        uses: Platane/snk@v2.0.0
+        with:
+          github_user: gofuckbiz
+          svg_out_path: dist/github-contribution-grid-snake.svg
+          
+          snake_color: '#00ff00'
+          
+          bg_color: '#000000'
+
+      - name: Commit and push changes
+        run: |
+          git config --local user.name "github-actions"
+          git config --local user.email "github-actions@github.com"
+          git add dist/github-contribution-grid-snake.svg
+          git commit -m "Update snake"
+          git push
