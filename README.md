@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there, I'm [gofuckbiz] 👋
 
-<!--
-**gofuckbiz/gofuckbiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software developer specializing in **Golang** and **Python**. I enjoy building microservices and web applications.
 
-Here are some ideas to get you started:
+## 🛠️ Technologies and Tools
+- **Programming Languages**: Golang, Python
+- **Frameworks**: [FastAPI]
+- **Databases**: [PostgreSQL, Sqlite]
+- **Other Tools**: [Postman]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 How to reach me
+- Email: [metamorhosed@internet.ru]
+- LinkedIn: [soon...]
+- Telegram: [https://t.me/dxqxxx]
+
+## 📈 My GitHub Stats
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=gofuckbiz&show_icons=true&theme=radical)
+
+## 💻 My Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gofuckbiz&layout=compact&theme=radical)
