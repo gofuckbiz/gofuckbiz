@@ -5,10 +5,12 @@ I'm a software developer specializing in **Golang** and **Python**. I enjoy buil
 ![Profile View](https://media.giphy.com/media/3o7aD2sa1g1g0g1g0I/giphy.gif) <!-- Animated GIF -->
 
 ## 🛠️ Technologies and Tools
-- **Programming Languages**: Golang, Python
-- **Frameworks**: [FastAPI]
-- **Databases**: [PostgreSQL, SQLite]
-- **Other Tools**: [Postman, Docker, Kubernetes]
+![Golang](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
 ## 📫 How to reach me
 - Email: [metamorhosed@internet.ru]
