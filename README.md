@@ -12,6 +12,9 @@ I'm a software developer specializing in **Golang** and **Python**. I enjoy buil
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
+## 🐍 GitHub Snake
+![Snake animation](https://github.com/gofuckbiz/gofuckbiz/blob/output/github-contribution-grid-snake.svg)
+
 ## 📫 How to reach me
 - Email: [metamorhosed@internet.ru]
 - LinkedIn: [soon...]
