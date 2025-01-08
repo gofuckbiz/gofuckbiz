@@ -18,7 +18,7 @@ I'm a software developer specializing in **Golang** and **Python**. I enjoy buil
 - Telegram: [https://t.me/dxqxxx]
 
 ## 📈 My GitHub Stats
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=gofuckbiz&show_icons=true&theme=radical)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=&show_icons=true&theme=radical)
 
 ## 💻 My Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gofuckbiz&layout=compact&theme=radical)
