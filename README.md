@@ -21,7 +21,7 @@ I'm a software developer specializing in **Golang** and **Python**. I enjoy buil
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=gofuckbiz&show_icons=true&theme=radical)
 
 ## 💻 My Most Used Languages
-!![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gofuckbiz&size_weight=0.5&count_weight=0.5)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gofuckbiz&size_weight=0.5&count_weight=0.5)
 
 ## 🚀 Projects
 ![GitHub stars](https://img.shields.io/github/stars/gofuckbiz/golang_step_by_step?style=social)
